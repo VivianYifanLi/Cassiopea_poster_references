@@ -1,3 +1,8 @@
+# Cassiopea xamachana: An emerging model cnidaria
+The International Cassiopea Consortium\*   
+\*Lead authors: Vivian Y. Li (yvl@ucla.edu), Anthony Bellantuono, Myles Wagner, Sandy S. H. Hung, Stephen Keable, Aki Ohdera
+
+## References
 1. Abrams, M. J., Ohdera, A., Francis, D. A., Donayre, O., Chen, H., Lu, K., & Harland, R. M. (2024). Cholinergic regulation of sleep in the upside-down jellyfish Cassiopea. bioRxiv. https://doi.org/10.1101/2024.10.04.616757
 2. Abrams, M. J., Ohdera, A., Francis, D. A., Donayre, O., Chen, H., Lu, K., Hsu, C. Y., Zeigler, H., & Harland, R. M. (2025). Sleeping upside-down: Knockdown of a sleep-associated gene induces daytime sleep in the jellyfish Cassiopea. Proceedings of the National Academy of Sciences, 122(29), e2505074122. https://doi.org/10.1073/pnas.2505074122
 3. Durieux, D. M., Du Clos, K. T., Lewis, D. B., & Gemmell, B. J. (2021). Benthic jellyfish dominate water mixing in mangrove ecosystems. Proceedings of the National Academy of Sciences, 118(27), e2025715118. https://doi.org/10.1073/pnas.2025715118
